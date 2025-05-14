@@ -1,0 +1,140 @@
+{
+  "apps": {
+    "status": true,
+    "redirect_url": ""
+  },
+  "wordpress": {
+    "site_url": "https://wordpress-site-url.com/",
+    "rest_api_provider": "default",
+    "posts_per_page": 12,
+    "categories_per_page": 24,
+    "max_related_posts": 6
+  },
+  "settings": {
+    "more_apps_url": "https://play.google.com/store/apps/developer?id=SolodroidX",
+    "privacy_policy_url": "https://example.com/privacy-policy.html",
+    "terms_conditions_url": "https://example.com/terms.html",
+    "email_feedback_and_report": "yourmail@gmail.com",
+    "show_post_date": false,
+    "show_post_count_in_category_list": true,
+    "show_related_posts": true,
+    "enable_comment_feature": false,
+    "enable_view_on_site_menu": true,
+    "enable_exit_dialog": true,
+    "enable_rtl_mode": false,
+    "enable_dark_mode_as_default_theme": false
+  },
+  "custom_category": {
+    "status": false,
+    "categories": [
+      {
+        "id": 6,
+        "name": "Appetizers",
+        "image": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/wordpress/recipes/appetizers.jpg"
+      },
+      {
+        "id": 5,
+        "name": "Breakfast",
+        "image": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/wordpress/recipes/breakfast.jpg"
+      },
+      {
+        "id": 8,
+        "name": "Desserts",
+        "image": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/wordpress/recipes/dessert.jpg"
+      },
+      {
+        "id": 10,
+        "name": "Drink",
+        "image": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/wordpress/recipes/drink.jpg"
+      },
+      {
+        "id": 7,
+        "name": "Main Dish",
+        "image": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/wordpress/recipes/main-dish.jpg"
+      },
+      {
+        "id": 3,
+        "name": "Side Dish",
+        "image": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/wordpress/recipes/side-dish.jpg"
+      }
+    ]
+  },
+  "ads": {
+    "status": true,
+    "main_ads": "admob",
+    "backup_ads": "none",
+    "ads_unit_id": {
+      "admob": {
+        "publisher_id": "pub-3940256099942544",
+        "app_open_id": "ca-app-pub-3940256099942544/3419835294",
+        "banner_id": "ca-app-pub-3940256099942544/6300978111",
+        "interstitial_id": "ca-app-pub-3940256099942544/1033173712",
+        "native_id": "ca-app-pub-3940256099942544/2247696110"
+      },
+      "google_ad_manager": {
+        "app_open_id": "/6499/example/app-open",
+        "banner_id": "/6499/example/banner",
+        "interstitial_id": "/6499/example/interstitial",
+        "native_id": "/6499/example/native"
+      },
+      "facebook": {
+        "banner_id": "IMG_16_9_APP_INSTALL#1102290040176998_1102321626840506",
+        "interstitial_id": "IMG_16_9_APP_INSTALL#1102290040176998_1103218190084183",
+        "native_id": "IMG_16_9_APP_INSTALL#1102290040176998_1142394442833224"
+      },
+      "applovin_max": {
+        "app_open_id": "0",
+        "banner_id": "0",
+        "interstitial_id": "0",
+        "native_id": "0"
+      },
+      "applovin_discovery": {
+        "banner_zone_id": "0",
+        "mrec_zone_id": "0",
+        "interstitial_zone_id": "0"
+      },
+      "startapp": {
+        "app_id": "0"
+      },
+      "unity": {
+        "game_id": "4089993",
+        "banner_id": "banner",
+        "interstitial_id": "video"
+      },
+      "ironsource": {
+        "app_key": "85460dcd",
+        "banner_id": "DefaultBanner",
+        "interstitial_id": "DefaultInterstitial"
+      },
+      "wortise": {
+        "app_id": "test-app-id",
+        "app_open_id": "test-app-open",
+        "banner_id": "test-banner",
+        "interstitial_id": "test-interstitial",
+        "native_id": "test-native"
+      }
+    },
+    "placement": {
+      "banner_home": true,
+      "banner_post_details": true,
+      "banner_category_details": true,
+      "banner_search": true,
+      "interstitial_post_list": true,
+      "interstitial_post_details": true,
+      "native_exit_dialog": true,
+      "native_post_list": true,
+      "native_post_details": true,
+      "app_open_ad_on_start": true,
+      "app_open_ad_on_resume": true
+    },
+    "global": {
+      "interstitial_ad_interval": 3,
+      "native_ad_index_2_columns": 4,
+      "native_ad_index_3_columns": 6,
+      "native_ad_style_exit_dialog": "medium",
+      "native_ad_style_post_list": "medium",
+      "native_ad_style_post_details": "large",
+      "native_ad_post_details_position": "bottom"
+    }
+  }
+}
