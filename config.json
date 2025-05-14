@@ -4,7 +4,7 @@
     "redirect_url": ""
   },
   "wordpress": {
-    "site_url": "https://wordpress-site-url.com/",
+    "site_url": "https://recettesparisiennes.com/",
     "rest_api_provider": "default",
     "posts_per_page": 12,
     "categories_per_page": 24,
