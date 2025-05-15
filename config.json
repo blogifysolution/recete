@@ -65,22 +65,22 @@
     "backup_ads": "none",
     "ads_unit_id": {
       "admob": {
-        "publisher_id": "pub-3940256099942544",
-        "app_open_id": "ca-app-pub-3940256099942544/3419835294",
-        "banner_id": "ca-app-pub-3940256099942544/6300978111",
-        "interstitial_id": "ca-app-pub-3940256099942544/1033173712",
-        "native_id": "ca-app-pub-3940256099942544/2247696110"
+        "publisher_id": "pub-6504546015387759",
+        "app_open_id": "ca-app-pub-6504546015387759/7631675445",
+        "banner_id": "ca-app-pub-6504546015387759/7631675445",
+        "interstitial_id": "ca-app-pub-6504546015387759/5855032688",
+        "native_id": "ca-app-pub-6504546015387759/2086052339"
       },
       "google_ad_manager": {
-        "app_open_id": "/6499/example/app-open",
-        "banner_id": "/6499/example/banner",
-        "interstitial_id": "/6499/example/interstitial",
-        "native_id": "/6499/example/native"
+        "app_open_id": "/6499/examp/app-open",
+        "banner_id": "/6499/examp/banner",
+        "interstitial_id": "/6499/examp/interstitial",
+        "native_id": "/6499/examp/native"
       },
       "facebook": {
-        "banner_id": "IMG_16_9_APP_INSTALL#1102290040176998_1102321626840506",
-        "interstitial_id": "IMG_16_9_APP_INSTALL#1102290040176998_1103218190084183",
-        "native_id": "IMG_16_9_APP_INSTALL#1102290040176998_1142394442833224"
+        "banner_id": "IMG_16_9_APP_INS98_1102321626840506",
+        "interstitial_id": "IMG_16_9_APP_INSTAL040176998_1103218190084183",
+        "native_id": "IMG_16_9_APP_INSTA0040176998_1142394442833224"
       },
       "applovin_max": {
         "app_open_id": "0",
