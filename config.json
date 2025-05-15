@@ -12,9 +12,9 @@
   },
   "settings": {
     "more_apps_url": "https://play.google.com/store/apps/developer?id=SolodroidX",
-    "privacy_policy_url": "https://example.com/privacy-policy.html",
+    "privacy_policy_url": "https://sites.google.com/view/privacy-policy-recettes/home",
     "terms_conditions_url": "https://sites.google.com/view/term-of-use-app-recettes/home",
-    "email_feedback_and_report": "yourmail@gmail.com",
+    "email_feedback_and_report": "blogifysolutionsllc@gmail.com",
     "show_post_date": false,
     "show_post_count_in_category_list": true,
     "show_related_posts": true,
